@@ -10,3 +10,6 @@ To run the game, you can simply run the command `./breakout` within the breakout
 
 If you want to compile it yourself, you'll need clang and make installed on your GNU/Linux system. 
 Open a terminal in /breakout folder, run `make breakout` and then, again, execute the game with `./breakout`.
+
+
+[Screenshot of the game](https://github.com/PanosVl/breakout/blob/master/screenshot.png "A screenshot of the game.")
